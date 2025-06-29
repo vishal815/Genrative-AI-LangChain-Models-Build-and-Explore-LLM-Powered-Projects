@@ -16,7 +16,7 @@ This project serves as a foundation for building applications with **Large Langu
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/your-username/langchain-ai-apps.git
-cd langchain-ai-apps
+cd project_path
 ````
 
 ### 2. Create a virtual environment
